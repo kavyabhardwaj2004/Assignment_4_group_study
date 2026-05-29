@@ -86,7 +86,7 @@ Synapse is a collaborative study platform designed to keep students focused, dis
 
 ---
 
-![Authentication Page](first.png)
+![Authentication Page](auth.png)
 
 ---
 
