@@ -50,7 +50,9 @@ Synapse is a collaborative study platform designed to keep students focused, dis
 
 ---
 
+
 ## 🌟 Additional Features
+
 
 ### 1. 🤖 AI-Powered Learning Assistance
 - unique AI mentor characters with distinct personalities.
@@ -81,7 +83,9 @@ Synapse is a collaborative study platform designed to keep students focused, dis
 - Responsive design for multiple screen sizes.
 - Smooth animations and real-time visual updates.
 
+
 ---
+
 
 ## 🛠️ Project Setup Instructions
 
