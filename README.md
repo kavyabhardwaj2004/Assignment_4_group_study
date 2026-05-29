@@ -50,6 +50,39 @@ Synapse is a collaborative study platform designed to keep students focused, dis
 
 ---
 
+## 🌟 Additional Features
+
+### 1. 🤖 AI-Powered Learning Assistance
+- unique AI mentor characters with distinct personalities.
+- AI-powered study guidance and motivational feedback.
+- Real-time chat moderation to keep discussions focused.
+
+### 2. 🧠 AI-Generated Learning Resources
+- Automatic **flashcard generation** from study materials.
+- AI-generated visual mindmaps using Mermaid.js.
+- Interactive 3D flashcard experience.
+
+### 3. 🛡️ Resilient AI Architecture
+- Google Gemini as the primary AI engine.
+- Automatic Ollama fallback for uninterrupted service.
+- Rule-based fallback generation when AI services are unavailable.
+
+### 4. 📊 Focus Tracking & Analytics
+- Tab-switch monitoring to detect distractions.
+- Focus warnings during study sessions.
+- Personalized study habit and productivity reports.
+
+### 5. 🎯 Automated Assessments
+- AI-generated quizzes based on uploaded content.
+- Post-session performance evaluation and feedback.
+
+### 6. 🎨 Enhanced User Experience
+- Modern glassmorphism-based UI.
+- Responsive design for multiple screen sizes.
+- Smooth animations and real-time visual updates.
+
+---
+
 ## 🛠️ Project Setup Instructions
 
 ### Prerequisites
