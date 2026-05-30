@@ -98,6 +98,12 @@ Synapse is a collaborative study platform designed to keep students focused, dis
 
 ---
 
+## 🎬 Demo
+
+![Demo](assign4_bQEM3Xcb.mp4)
+
+---
+
 ## 🛠️ Project Setup Instructions
 
 ### Prerequisites
